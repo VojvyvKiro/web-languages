@@ -7,6 +7,7 @@ News:
 - http://komikerka.ru/
 - https://komiinform.ru/news/e/161
 - https://www.nbrkomi.ru/kraevedenie/vyltoryas (accessible only with Russian IP)
+- https://rkomi.ru/language/kv (accessible only with Russian IP)
 
 Culture / History:
 - https://komikyv.org/
