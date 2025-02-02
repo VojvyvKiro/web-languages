@@ -24,6 +24,7 @@ Political Parties:
 Other:
 - https://kv.wikipedia.org/
 - https://vk.com/as_kyv_dor (social media posts, mostly in Komi, older posts are political)
+- http://komikyv.com (Komi linguistics)
 
 Informative links (in English):
 - 
